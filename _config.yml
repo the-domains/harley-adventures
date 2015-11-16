@@ -2,6 +2,7 @@ name: 'Harley Adventures '
 favicon: null
 layout_spectrum: 0.542607668088749
 typography_spectrum: 0.4078564962837845
+title: Harley Adventures
 cta:
   domain: null
   bucket: null
