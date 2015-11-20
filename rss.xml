@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Harley Adventures ]]></title>
-        <description><![CDATA[Harley Adventures ]]></description>
+        <title><![CDATA[Harley Adventures]]></title>
+        <description><![CDATA[Harley Adventures]]></description>
         <link>https://thegrid.ai/harley-adventures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 05:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 18:29:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harley-adventures/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Really?]]></title>
+            <description><![CDATA[<article><h1>Really?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c29f663-4212-4973-a1d1-3761f328d9e9.JPG"></article>]]></description>
+            <link>https://thegrid.ai/harley-adventures/06e23253-eea3-40b4-96f7-ca32ec5f25e2/index.html</link>
+            <guid isPermaLink="false">06e23253-eea3-40b4-96f7-ca32ec5f25e2</guid>
+            <pubDate>Fri, 20 Nov 2015 18:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Harley ]]></title>
             <description><![CDATA[<article><h1>Harley </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c0cb782-02cf-465c-b022-b48adc898d5d.JPG"></article>]]></description>
@@ -46,13 +53,6 @@
             <description><![CDATA[<article><h1>Say What?!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbb7380c-fcb4-431d-a656-035f86f05aa2.JPG"></article>]]></description>
             <link>https://thegrid.ai/harley-adventures/a7732699-e01d-4923-90df-9420f08fcfc1/index.html</link>
             <guid isPermaLink="false">a7732699-e01d-4923-90df-9420f08fcfc1</guid>
-            <pubDate>Mon, 16 Nov 2015 05:47:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Really?]]></title>
-            <description><![CDATA[<article><h1>Really?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c29f663-4212-4973-a1d1-3761f328d9e9.JPG"></article>]]></description>
-            <link>https://thegrid.ai/harley-adventures/06e23253-eea3-40b4-96f7-ca32ec5f25e2/index.html</link>
-            <guid isPermaLink="false">06e23253-eea3-40b4-96f7-ca32ec5f25e2</guid>
             <pubDate>Mon, 16 Nov 2015 05:47:03 GMT</pubDate>
         </item>
     </channel>
