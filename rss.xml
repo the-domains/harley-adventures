@@ -4,7 +4,7 @@
         <description><![CDATA[Harley Adventures]]></description>
         <link>https://thegrid.ai/harley-adventures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 03:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 03:01:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harley-adventures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Really?]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/harley-adventures/d4009263-23f1-4c5a-8b5a-f422df88d62c/index.html</link>
             <guid isPermaLink="false">d4009263-23f1-4c5a-8b5a-f422df88d62c</guid>
             <pubDate>Sat, 21 Nov 2015 18:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d912ded5-e9d7-460f-b91c-1cccf9b23eba.jpg">]]></description>
-            <link>https://thegrid.ai/harley-adventures/147ffe94-ca3f-411a-94cb-7067b364c310/index.html</link>
-            <guid isPermaLink="false">147ffe94-ca3f-411a-94cb-7067b364c310</guid>
-            <pubDate>Sat, 09 Apr 2016 03:00:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/harley-adventures/c7f504fc-7ffc-4cc3-a918-d0fa63f3fee2/index.html</link>
             <guid isPermaLink="false">c7f504fc-7ffc-4cc3-a918-d0fa63f3fee2</guid>
             <pubDate>Sat, 21 Nov 2015 18:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Walking & Chewing]]></title>
+            <description><![CDATA[<article><h1>Walking & Chewing</h1><p>I can do that ya know...I'm living proof!  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/953a2c63-dd71-486a-a5c2-fab8d436a122.JPG"></article>]]></description>
+            <link>https://thegrid.ai/harley-adventures/a66de10b-60eb-4ba1-b13e-aad1c370d9dd/index.html</link>
+            <guid isPermaLink="false">a66de10b-60eb-4ba1-b13e-aad1c370d9dd</guid>
+            <pubDate>Sat, 21 Nov 2015 18:03:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
