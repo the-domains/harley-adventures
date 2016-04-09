@@ -4,7 +4,7 @@
         <description><![CDATA[Harley Adventures]]></description>
         <link>https://thegrid.ai/harley-adventures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 03:01:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 03:01:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harley-adventures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Really?]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/harley-adventures/d4009263-23f1-4c5a-8b5a-f422df88d62c/index.html</link>
             <guid isPermaLink="false">d4009263-23f1-4c5a-8b5a-f422df88d62c</guid>
             <pubDate>Sat, 21 Nov 2015 18:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4de2c861-fe63-4f79-975b-ff1e8eee7eab.jpg">]]></description>
-            <link>https://thegrid.ai/harley-adventures/acdac749-3db6-415f-920f-642786732d1c/index.html</link>
-            <guid isPermaLink="false">acdac749-3db6-415f-920f-642786732d1c</guid>
-            <pubDate>Sat, 09 Apr 2016 03:00:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/harley-adventures/a66de10b-60eb-4ba1-b13e-aad1c370d9dd/index.html</link>
             <guid isPermaLink="false">a66de10b-60eb-4ba1-b13e-aad1c370d9dd</guid>
             <pubDate>Sat, 21 Nov 2015 18:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Happy Holidays Harley]]></title>
+            <description><![CDATA[<article><h1>Happy Holidays Harley</h1><p>A very merry and happy holiday season to all!  From Harley.  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b10cd65-14ff-40c7-87cf-70f6c1634641.JPG"></article>]]></description>
+            <link>https://thegrid.ai/harley-adventures/4e454263-70ef-4bcb-b8ff-d6b8569e0ecd/index.html</link>
+            <guid isPermaLink="false">4e454263-70ef-4bcb-b8ff-d6b8569e0ecd</guid>
+            <pubDate>Sat, 21 Nov 2015 17:56:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
