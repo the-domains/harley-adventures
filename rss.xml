@@ -4,7 +4,7 @@
         <description><![CDATA[Harley Adventures]]></description>
         <link>https://thegrid.ai/harley-adventures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 03:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 03:41:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harley-adventures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Harley ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/harley-adventures/d4009263-23f1-4c5a-8b5a-f422df88d62c/index.html</link>
             <guid isPermaLink="false">d4009263-23f1-4c5a-8b5a-f422df88d62c</guid>
             <pubDate>Sat, 21 Nov 2015 18:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f2ff84d476dcdb548f91f6eabbf70773/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F767afe34-2d96-464a-8a22-9a58fd5d7c99.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/harley-adventures/e623611a-423f-4a90-b93e-34d28858ef9a/index.html</link>
+            <guid isPermaLink="false">e623611a-423f-4a90-b93e-34d28858ef9a</guid>
+            <pubDate>Fri, 19 Aug 2016 03:41:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/harley-adventures/1cd60a60-3a62-4c1d-8137-f9b7824fcb03/index.html</link>
             <guid isPermaLink="false">1cd60a60-3a62-4c1d-8137-f9b7824fcb03</guid>
             <pubDate>Sat, 09 Apr 2016 03:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snowy Harley]]></title>
-            <description><![CDATA[<article><h1>Snowy Harley</h1><p>I am very fascinated with snow!  I enjoy sticking my nose into it and sniffing around for any fantastic smells.  Thus I look like this after...  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f02d0b2e-8e8d-4522-ae47-e3de366bd5d5.JPG"></article>]]></description>
-            <link>https://thegrid.ai/harley-adventures/edae3c4f-0a79-489c-a795-a486f35f81a7/index.html</link>
-            <guid isPermaLink="false">edae3c4f-0a79-489c-a795-a486f35f81a7</guid>
-            <pubDate>Sat, 21 Nov 2015 18:04:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
